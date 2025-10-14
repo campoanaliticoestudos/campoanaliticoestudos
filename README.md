@@ -62,6 +62,7 @@ No futebol moderno, **quem entende de dados tem vantagem**. Aqui você vai apren
 
 ## 🎯 Comece agora
 
-1. Clone este repositório:  
+Finalize sua Compra: Torne-se Aluno:
+
 ```bash
-git clone https://github.com/seuusuario/campo-analitico.git
+git clone https://pay.hotmart.com/U97938696S?bid=1759656891578
