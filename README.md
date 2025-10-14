@@ -65,4 +65,4 @@ No futebol moderno, **quem entende de dados tem vantagem**. Aqui você vai apren
 Finalize sua Compra: Torne-se Aluno:
 
 ```bash
- [Comprar Agora](https://pay.hotmart.com/U97938696S?bid=1759656891578)
+ [Comprar Agora](https://linktr.ee/campoanalitico.com)
