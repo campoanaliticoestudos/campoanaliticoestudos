@@ -77,10 +77,10 @@ Cada conceito vira código. Cada código vira análise. Cada análise vira difer
 
 ## 🚀 Projetos em destaque
 
-> Os repositórios abaixo são análises reais que você aprende a reproduzir no curso.
+> Repositórios públicos com análises reais que você aprende a reproduzir no curso.
 
-[![xG Model](https://github-readme-stats.vercel.app/api/pin/?username=campoanaliticoestudos&repo=xg-model&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75)](https://github.com/campoanaliticoestudos)
-[![Mapa de Calor](https://github-readme-stats.vercel.app/api/pin/?username=campoanaliticoestudos&repo=mapas-de-calor&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75)](https://github.com/campoanaliticoestudos)
+[![Banco de Dados Futebol](https://github-readme-stats.vercel.app/api/pin/?username=campoanaliticoestudos&repo=Banco-de-dados-futebol&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75)](https://github.com/campoanaliticoestudos/Banco-de-dados-futebol)
+[![xG Brasileirao](https://github-readme-stats.vercel.app/api/pin/?username=campoanaliticoestudos&repo=xg_brasileirao&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75)](https://github.com/campoanaliticoestudos/xg_brasileirao)
 
 ---
 
