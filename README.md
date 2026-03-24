@@ -1,68 +1,115 @@
-# ⚽ Campo Analítico – Transforme sua carreira com dados no futebol 📊
+<div align="center">
 
-Se você quer **deixar o achismo de lado** e começar a **tomar decisões estratégicas baseadas em dados reais**, você está no lugar certo!  
+<img src="https://img.shields.io/badge/Linguagem-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Foco-Futebol%20%2B%20Dados-1D9E75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nível-Iniciante%20ao%20Avançado-F5A623?style=for-the-badge"/>
 
-Este é o **guia inicial** para aprender a analisar futebol de verdade, com **R e Estatística básica** aplicada a dados esportivos.
+# ⚽ Campo Analítico
+### Transforme sua visão do futebol com estatística e dados reais
 
----
+*Pare de achar. Comece a analisar.*
 
-## 🚀 Por que se tornar aluno do Campo Analítico?
-
-No futebol moderno, **quem entende de dados tem vantagem**. Aqui você vai aprender a:  
-
-- 📈 Interpretar métricas avançadas de desempenho de jogadores e equipes  
-- 🎨 Criar visualizações profissionais (como Opta e StatsBomb)  
-- 💡 Transformar dados brutos em **insights estratégicos**  
-- 🖥️ Dominar a linguagem **R**, a ferramenta mais utilizada em análise de futebol  
-
-> Aprender conosco é unir **estatística, prática e aplicação real**.
+</div>
 
 ---
 
-## 📚 Como funcionam as aulas
+## O problema que este repositório resolve
 
-- Baseadas em **livro de Estatística básica**  
-- Aprendizado **prático com R**, aplicado a exemplos reais de futebol  
-- **Importação manual de dados**: você aprende a trabalhar com arquivos reais e reproduzir análises profissionais  
+A maioria dos profissionais e entusiastas do futebol toma decisões baseadas em **opinião** — não em dados. Analistas de desempenho, scouts e jornalistas esportivos perdem oportunidades todos os dias por não saber como extrair, tratar e visualizar informações de forma profissional.
 
-> Com isso, você **não só aprende a teoria, mas também sabe aplicá-la no dia a dia profissional**.
+Este repositório existe para mudar isso.
 
 ---
 
-## 👥 Para quem é este perfil/repositório
+## O que você encontra aqui
 
-- Analistas de desempenho que querem subir de nível  
-- Scouts profissionais ou amadores buscando métricas avançadas  
-- Estudantes de Estatística, Data Science ou apaixonados por futebol  
-- Profissionais de mídia e marketing esportivo buscando insights estratégicos  
+| Conteúdo | O que você vai fazer |
+|---|---|
+| 📈 **Métricas avançadas** | Interpretar xG, xA, PPDA e indicadores de pressão usados por clubes profissionais |
+| 🎨 **Visualizações profissionais** | Criar gráficos no padrão Opta e StatsBomb direto no R |
+| 🔥 **Mapas de calor e redes de passes** | Analisar padrões táticos de jogadores e equipes com visual impactante |
+| 🕷️ **Scraping de dados esportivos** | Coletar dados automaticamente com o pacote `worldfootballR` |
+| 📊 **Dashboards interativos** | Montar painéis que contam histórias com dados |
+| 🗂️ **Modelos de scouting** | Reproduzir relatórios de scout baseados em dados reais |
 
-> Se você quer se destacar, este README é seu **primeiro passo**.
-
----
-
-## 🔍 O que você encontrará aqui
-
-- Guias passo a passo de **análise de desempenho de jogadores**  
-- Exemplos de **scraping de dados esportivos** com `worldfootballR`  
-- **Dashboards e gráficos interativos** para análise visual  
-- Modelos de **scouting, xG, xA, redes de passes e mapas de calor**  
-
-> Tudo para transformar dados em **decisões estratégicas e insights aplicáveis**.
+Todo o código é **reproduzível**: você clona, roda e aprende fazendo.
 
 ---
 
-## 💼 Como isso transforma sua carreira
+## Como o aprendizado funciona
 
-1. **Aprendizado aplicado**: teoria do livro + prática real em R  
-2. **Diferencial competitivo**: destaque-se como o profissional que clubes e analistas procuram  
-3. **Portfólio visível**: reproduza exemplos e mostre suas análises  
-4. **Networking e comunidade**: interaja com outros alunos e profissionais apaixonados por análise de futebol  
+O método é direto: **teoria do livro, prática no futebol.**
+
+```
+📖 Conceito estatístico  →  ⚽ Aplicação real em futebol  →  💻 Código em R  →  📊 Análise pronta
+```
+
+1. Cada tópico parte de um conceito de **Estatística básica** — sólido e aplicável
+2. O conceito é imediatamente contextualizado com **dados reais de futebol**
+3. Você escreve e executa o **código em R** do zero
+4. O resultado é uma **análise que você pode publicar no seu portfólio**
+
+Sem atalhos. Sem magia. Você vai entender o que está fazendo — e por quê.
 
 ---
 
-## 🎯 Comece agora
+## Para quem é este repositório
 
-Finalize sua Compra: Torne-se Aluno:
+**Você está no lugar certo se:**
 
-```bash
-https://pay.hotmart.com/U97938696S?bid=1759656891578
+- É analista de desempenho e quer ir além das planilhas e do olho clínico
+- É scout e quer validar suas observações com métricas concretas
+- Estuda Estatística ou Data Science e quer aplicar no esporte que ama
+- Trabalha em mídia ou marketing esportivo e quer produzir conteúdo mais profundo
+- É simplesmente apaixonado por futebol e curioso sobre como os dados funcionam
+
+**Pré-requisito:** zero. Você aprende R aqui do zero, junto com os conceitos.
+
+---
+
+## Impacto real na sua carreira
+
+O mercado de análise de dados no futebol brasileiro ainda está em formação. Isso significa uma coisa: **quem entra agora sai na frente.**
+
+Com o que você aprende aqui, você consegue:
+
+- **Construir um portfólio público** com análises reais no GitHub — algo que 90% dos candidatos a vagas na área não têm
+- **Falar a língua dos dados** em entrevistas, reuniões e relatórios técnicos
+- **Diferenciar suas observações** com evidências quantitativas, não só intuição
+- **Conectar-se com uma comunidade** de profissionais e estudantes que pensam igual a você
+
+---
+
+## Estrutura do repositório
+
+```
+campo-analitico/
+├── 01-estatistica-basica/     # Fundamentos com aplicação em futebol
+├── 02-importacao-dados/       # worldfootballR, arquivos CSV, APIs
+├── 03-metricas-avancadas/     # xG, xA, PPDA e outras métricas
+├── 04-visualizacoes/          # ggplot2, mapas de calor, redes de passes
+├── 05-dashboards/             # Shiny e gráficos interativos
+└── 06-modelos-scouting/       # Relatórios completos com dados reais
+```
+
+---
+
+## Dê o próximo passo
+
+Este repositório é a vitrine. O curso completo vai mais fundo — com aulas guiadas, exercícios e acesso à comunidade.
+
+<div align="center">
+
+### 👇 Torne-se aluno do Campo Analítico
+
+**[→ Acessar o curso completo](https://pay.hotmart.com/U97938696S?bid=1759656891578)**
+
+*Acesso imediato · Pagamento seguro via Hotmart*
+
+</div>
+
+---
+
+<div align="center">
+<sub>Feito com dados e futebol · Campo Analítico</sub>
+</div>
