@@ -1,126 +1,163 @@
-<div align="center">
+# Campo Analítico — Análise de Futebol com Dados em R
 
-![Banner Campo Analítico](https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=200&section=header&text=Campo%20Analítico&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Futebol%20+%20Dados%20+%20R&descAlignY=60&descSize=20&animation=fadeIn)
-
-</div>
-
-<div align="center">
-
-### ⚽ 1ª Escola brasileira de Análise de Futebol com Dados
-**Pare de achar. Comece a analisar.**
-
-[![Curso Completo](https://img.shields.io/badge/🎓%20Torne--se%20Aluno-Acessar%20o%20Curso-1D9E75?style=for-the-badge)](https://pay.hotmart.com/U97938696S?bid=1759656891578)
-[![GitHub followers](https://img.shields.io/github/followers/campoanaliticoestudos?style=for-the-badge&color=0F6E56&label=Seguidores)](https://github.com/campoanaliticoestudos)
-
-</div>
+#### Por: Campo Analítico
+#### Suporte: [campoanalitico.com.br](https://campoanalitico.com.br/) · [@analiticocampo](https://x.com/analiticocampo) · [@campoanalitico360](https://www.instagram.com/campoanalitico360/)
+#### Atualizado em: Abril de 2025
 
 ---
 
-## 👋 Bem-vindo ao Campo Analítico
-
-Aqui você aprende a **analisar futebol com dados reais** — do zero ao portfólio profissional.
-
-O método é simples: **Estatística básica + linguagem R + futebol de verdade.**
-Cada conceito vira código. Cada código vira análise. Cada análise vira diferencial na sua carreira.
+Este repositório reúne materiais, scripts e projetos desenvolvidos pela **1ª Escola Brasileira de Estatística para Analistas de Desempenho no Futebol**. O objetivo é ensinar análise de dados aplicada ao futebol utilizando R, com foco em fontes profissionais como StatsBomb, Opta, FBref, WhoScored e Catapult.
 
 ---
 
-## 🛠️ Stack que você vai dominar
+## Instalação
 
-<div align="center">
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-1D9E75?style=for-the-badge&logo=r&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-0F6E56?style=for-the-badge&logo=r&logoColor=white)
-![StatsBomb](https://img.shields.io/badge/StatsBomb-E63946?style=for-the-badge&logoColor=white)
-![Opta](https://img.shields.io/badge/Opta-F5A623?style=for-the-badge&logoColor=white)
-![FBref](https://img.shields.io/badge/FBref-1a1a2e?style=for-the-badge&logoColor=white)
-![worldfootballR](https://img.shields.io/badge/worldfootballR-5DCAA5?style=for-the-badge&logo=r&logoColor=white)
-![WhoScored](https://img.shields.io/badge/WhoScored-2C3E50?style=for-the-badge&logoColor=white)
-![Catapult](https://img.shields.io/badge/Catapult-E74C3C?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
-## 📚 O que você encontra aqui
-
-| Módulo | Conteúdo | Impacto |
-|--------|----------|---------|
-| 📈 **Métricas avançadas** | xG, xA, PPDA, pressão defensiva | Fala a língua dos clubes profissionais |
-| 🎨 **Visualizações** | Padrão Opta e StatsBomb em R | Portfólio que impressiona recrutadores |
-| 🔥 **Mapas de calor** | Zonas de atuação e padrões táticos | Analisa qualquer jogador ou equipe |
-| 🕸️ **Redes de passes** | Estrutura de jogo e conexões | Entende o futebol em outra dimensão |
-| 🕷️ **Scraping** | `worldfootballR`, FBref, APIs | Coleta dados de qualquer campeonato |
-| 📊 **Dashboards** | Shiny e gráficos interativos | Apresentações profissionais e visuais |
-| 🗂️ **Scouting** | Relatórios baseados em dados reais | Diferencial para scouts e analistas |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=campoanaliticoestudos&show_icons=true&theme=dark&bg_color=0d1117&title_color=5DCAA5&icon_color=1D9E75&text_color=ffffff&border_color=1D9E75&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=campoanaliticoestudos&layout=compact&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=campoanaliticoestudos&theme=dark&background=0d1117&ring=1D9E75&fire=5DCAA5&currStreakLabel=5DCAA5&border=1D9E75)](https://github.com/campoanaliticoestudos)
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-> Repositórios públicos com análises reais que você aprende a reproduzir no curso.
-
-[![Banco de Dados Futebol](https://github-readme-stats.vercel.app/api/pin/?username=campoanaliticoestudos&repo=Banco-de-dados-futebol&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75)](https://github.com/campoanaliticoestudos/Banco-de-dados-futebol)
-[![xG Brasileirao](https://github-readme-stats.vercel.app/api/pin/?username=campoanaliticoestudos&repo=xg_brasileirao&theme=dark&bg_color=0d1117&title_color=5DCAA5&text_color=ffffff&border_color=1D9E75)](https://github.com/campoanaliticoestudos/xg_brasileirao)
-
----
-
-## 👥 Para quem é este perfil
+Para utilizar os pacotes e scripts deste repositório, certifique-se de ter o **R 4.0 ou superior** instalado.
 
 ```r
-perfil_ideal <- c(
-  "Analistas de desempenho que querem ir além das planilhas",
-  "Scouts que querem validar observações com dados",
-  "Estudantes de Estatística e Data Science apaixonados por futebol",
-  "Profissionais de mídia esportiva que querem conteúdo mais profundo",
-  "Qualquer pessoa curiosa sobre como o futebol moderno usa dados"
+# Instale os pacotes necessários
+install.packages(c("devtools", "tidyverse", "ggplot2", "shiny"))
+
+# StatsBombR — dados abertos e via API
+devtools::install_github("statsbomb/StatsBombR")
+
+# worldfootballR — scraping de FBref, WhoScored e outros
+devtools::install_github("JaseZiv/worldfootballR")
+```
+
+---
+
+## Repositórios
+
+| Repositório | Descrição | Linguagem |
+|---|---|---|
+| [xg_brasileirao](https://github.com/campoanaliticoestudos/xg_brasileirao) | Cálculo e visualização de xG no Campeonato Brasileiro | R |
+| [Banco-de-dados-futebol](https://github.com/campoanaliticoestudos/Banco-de-dados-futebol) | Banco de dados estruturado para estudos de futebol | R |
+| [campoanalytics](https://github.com/campoanaliticoestudos/campoanalytics) | Funções e utilitários para análise de futebol | R |
+
+---
+
+## Uso
+
+### Lendo dados abertos da StatsBomb
+
+```r
+library(StatsBombR)
+
+# Listar competições disponíveis gratuitamente
+Comp <- FreeCompetitions()
+
+# Listar partidas de uma competição
+Matches <- FreeMatches(Comp)
+
+# Carregar eventos de uma partida
+StatsBombData <- get.matchFree(Matches[1, ])
+
+# Limpeza e normalização dos dados
+StatsBombData <- allclean(StatsBombData)
+```
+
+### Coletando dados do FBref via worldfootballR
+
+```r
+library(worldfootballR)
+
+# Estatísticas de jogadores do Brasileirão
+brasileirao_stats <- fb_league_stats(
+  country = "BRA",
+  gender = "M",
+  season_end_year = 2024,
+  stat_type = "standard"
 )
 ```
 
-**Pré-requisito: zero.** Você aprende R aqui do início.
+### Exemplo: Mapa de chutes com xG
+
+```r
+library(ggplot2)
+library(StatsBombR)
+
+# Filtrar eventos de chute
+shots <- StatsBombData %>%
+  filter(type.name == "Shot")
+
+# Plotar campo com localização dos chutes
+ggplot(shots, aes(x = location.x, y = location.y, size = shot.statsbomb_xg,
+                  color = shot.outcome.name)) +
+  geom_point(alpha = 0.7) +
+  scale_color_manual(values = c("Goal" = "#1D9E75", "Saved" = "#0F6E56",
+                                "Off T" = "#5DCAA5", "Blocked" = "#aaaaaa")) +
+  labs(title = "Mapa de Chutes", x = NULL, y = NULL) +
+  theme_minimal()
+```
 
 ---
 
-## 💼 Como isso transforma sua carreira
+## Métricas Cobertas
 
-🏆 **Portfólio público** — análises reais no GitHub que 90% dos candidatos não têm  
-📣 **Diferencial competitivo** — fale a língua dos dados em entrevistas e reuniões técnicas  
-🔗 **Comunidade** — conecte-se com profissionais e estudantes da área  
-📈 **Mercado em expansão** — análise de dados no futebol brasileiro ainda está no início  
-
----
-
-<div align="center">
-
-## 🎯 Pronto para começar?
-
-### Acesse o curso completo e torne-se aluno
-
-[![Quero me tornar aluno](https://img.shields.io/badge/🚀%20QUERO%20ME%20TORNAR%20ALUNO-Acessar%20agora-1D9E75?style=for-the-badge&labelColor=0F6E56)](https://pay.hotmart.com/U97938696S?bid=1759656891578)
-
-*Acesso imediato · Pagamento seguro via Hotmart · 7 dias de garantia*
+- **xG (Expected Goals)** — probabilidade de gol por chute
+- **xA (Expected Assists)** — probabilidade de assistência por passe
+- **PPDA (Passes Permitidos por Ação Defensiva)** — intensidade de pressão
+- **Progressive Passes / Carries** — progressão com e sem bola
+- **Defensive Actions** — pressão, recuperações, duelos
+- **Redes de Passes** — estrutura de jogo e conexões entre jogadores
+- **Mapas de Calor** — zonas de atuação e padrões táticos
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F6E56,1D9E75,5DCAA5&height=100&section=footer)
+## Fontes de Dados Compatíveis
 
-</div>
+| Fonte | Acesso | Tipo de Dado |
+|---|---|---|
+| [StatsBomb Open Data](https://github.com/statsbomb/open-data) | Gratuito | Eventos, chutes, passes, pressão |
+| [FBref](https://fbref.com) | Gratuito (scraping) | Estatísticas agregadas |
+| [WhoScored](https://whoscored.com) | Gratuito (scraping) | Avaliações e dados táticos |
+| [StatsBomb API](https://statsbomb.com) | Pago | Dados de alta frequência |
+| [Opta](https://optasports.com) | Pago | Dados de alta frequência |
+| [Catapult](https://catapultsports.com) | Institucional | GPS e carga física |
+
+---
+
+## Pré-requisitos
+
+- R ≥ 4.0
+- RStudio (recomendado)
+- Conhecimento básico de R (o curso ensina do zero)
+- Nenhum conhecimento prévio em estatística é necessário
+
+---
+
+## Estrutura dos Projetos
+
+```
+campoanaliticoestudos/
+├── xg_brasileirao/
+│   ├── data/          # Dados brutos e processados
+│   ├── R/             # Scripts de análise
+│   └── output/        # Visualizações geradas
+├── Banco-de-dados-futebol/
+│   ├── data/
+│   └── README.md
+└── campoanalytics/
+    ├── R/             # Funções reutilizáveis
+    └── DESCRIPTION
+```
+
+---
+
+## Notas Finais
+
+- Scripts são atualizados regularmente com novos exemplos e correções.
+- Verifique as dependências de pacotes em caso de erros na instalação.
+- Cada projeto possui seu próprio `README.md` com instruções específicas.
+- Para dúvidas técnicas, abra uma [Issue](https://github.com/campoanaliticoestudos) no repositório correspondente.
+- Acompanhe novos projetos e análises em [campoanalitico.com.br](https://campoanalitico.com.br/).
+
+---
+
+## Sobre
+
+Campo Analítico é a primeira escola brasileira de estatística aplicada ao futebol voltada para analistas de desempenho. Ensinamos linguagem R, métricas avançadas e visualização de dados com foco em aplicação prática e desenvolvimento de portfólio profissional.
+
+[![Acesse o Curso](https://img.shields.io/badge/Acesse%20o%20Curso-campoanalitico.com.br-1D9E75?style=for-the-badge)](https://campoanalitico.com.br/)
+[![GitHub followers](https://img.shields.io/github/followers/campoanaliticoestudos?style=for-the-badge&color=0F6E56&label=Seguidores)](https://github.com/campoanaliticoestudos)
